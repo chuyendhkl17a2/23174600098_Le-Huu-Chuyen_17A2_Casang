@@ -1,0 +1,26 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đúng
+d) Nếu sử dụng -1^i thì kết quả sẽ bị thay đổi, trong khi đó tổng đúng phải là s = s + ((-1)^(i+1))/i 
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) thiếu 
+d) đúng
+e) đúng
+Điểm bài tập: 4.0
+
+- Bài 4:
+a) đúng
+b) thân cây thông in bị lệch
+Điểm bài tập: 0.75
+
+Tổng điểm bài tập lab 3: 8.25
